@@ -1,0 +1,6 @@
+{
+  "name": "Aroha Health Companion",
+  "description": "A holistic multi-generational healthcare companion for caregivers and patients with medication management, vital tracking, multi-profile care, and SOS emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
